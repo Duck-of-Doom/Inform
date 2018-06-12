@@ -37,13 +37,7 @@
             <a href="http://www.peelridgestud.com/wp-content/uploads/2015/12/1607098_750147671663000_299864864_n.jpg">
                 <h4>Rouen Ducks</h4>
             </a>
-            <style>
-                body{background-image: url(https://cdn.shopify.com/s/files/1/1772/0301/products/0_c00faf12-e5eb-4b81-a8ae-adf2b9256d85.png?v=1487607192);
-                 }   
-           </style>
 
-
-
-        </body>
+            </body>
 
 </html>
